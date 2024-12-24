@@ -1,2 +1,2 @@
 # dedosRnc
-Proyecto donde se explica paso a paso la creación y entrenamiento de una red neuronal convolucional para la identificación de los dedos de una mano.
+Para que el entramiento funcione tal y como esta preparado, se debe descomprimir el zip de los dedos en una carpeta a la misma altura que el archivo ipynb. Aclaro que este proyecto esta pensado para ser una muestra de los conocimientos adquiridos durante mi formación especializada en inteligencia artificial, no para ser utilizada en un proyexto real. Para ello haría falta un entrenamiento mas exahustivo con un hardware mas potente y durante mas tiempo.
